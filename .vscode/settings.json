@@ -1,0 +1,10 @@
+{
+	"[markdown]": {
+		"editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+		"editor.renderWhitespace": "boundary"
+	},
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.markdownlint": "explicit"
+	}
+}
